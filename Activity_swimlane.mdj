@@ -28630,17 +28630,17 @@
 									"_parent": {
 										"$ref": "AAAAAAGYReTdVeBcojU="
 									},
-									"font": "Arial;13;0",
+									"font": "Arial;24;0",
 									"parentStyle": true,
 									"left": 48,
 									"top": 84,
 									"width": 224,
-									"height": 13,
+									"height": 24,
 									"text": "Member",
 									"verticalAlignment": 3
 								}
 							],
-							"font": "Arial;13;0",
+							"font": "Arial;24;0",
 							"parentStyle": false,
 							"left": 48,
 							"top": 80,
@@ -28666,17 +28666,17 @@
 									"_parent": {
 										"$ref": "AAAAAAGYReUZDOBsJiE="
 									},
-									"font": "Arial;13;0",
+									"font": "Arial;24;0",
 									"parentStyle": true,
 									"left": 1584,
 									"top": 84,
 									"width": 256,
-									"height": 13,
+									"height": 24,
 									"text": "Payment Gateway",
 									"verticalAlignment": 3
 								}
 							],
-							"font": "Arial;13;0",
+							"font": "Arial;24;0",
 							"parentStyle": false,
 							"left": 1584,
 							"top": 80,
@@ -28702,17 +28702,17 @@
 									"_parent": {
 										"$ref": "AAAAAAGYReUa/OB0B6w="
 									},
-									"font": "Arial;13;0",
+									"font": "Arial;24;0",
 									"parentStyle": true,
 									"left": 272,
 									"top": 84,
 									"width": 952,
-									"height": 13,
+									"height": 24,
 									"text": "Salesperson",
 									"verticalAlignment": 3
 								}
 							],
-							"font": "Arial;13;0",
+							"font": "Arial;24;0",
 							"parentStyle": false,
 							"left": 272,
 							"top": 80,
@@ -28738,17 +28738,17 @@
 									"_parent": {
 										"$ref": "AAAAAAGYReUnSeB89UE="
 									},
-									"font": "Arial;13;0",
+									"font": "Arial;24;0",
 									"parentStyle": true,
 									"left": 1224,
 									"top": 84,
 									"width": 360,
-									"height": 13,
+									"height": 24,
 									"text": "Movie Theater System",
 									"verticalAlignment": 3
 								}
 							],
-							"font": "Arial;13;0",
+							"font": "Arial;24;0",
 							"parentStyle": false,
 							"left": 1224,
 							"top": 80,
