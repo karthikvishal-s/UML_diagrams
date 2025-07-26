@@ -1,9 +1,9 @@
 # UML_diagrams
 
 
-Part of my coursework in Design Patterns 
+## Coursework in Design Patterns 
 
-Problem Statement : 
+### Problem Statement : 
 
 Company Movie4U has a movie theater with five halls in it. All these halls are of the same size
 and even have the same number of seats, fifty-two. The seats are of two different types though,
@@ -36,12 +36,21 @@ We are assigned the task to prepare 10 different UML Digrams for the above menti
 The UML Diagrams to be drafted are:
 
 1.Use-Case Diagram
+
 2.Class Diagram
+
 3.Object Diagram
+
 4.Sequence Diagram
+
 5.Activity Diagram
+
 6.Activity Diagram with SwimLane
+
 7.Component Diagram
+
 8.Collaboration Diagram
+
 9.Deployment Diagram
+
 10.Statechart/State-Machine Diagram
