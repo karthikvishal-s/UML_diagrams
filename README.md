@@ -1,11 +1,11 @@
 # UML_diagrams
 
 
-## Coursework in Design Patterns 
+## Coursework in Design Patterns (23CSE455)
 
 ### Problem Statement : 
 
-Company Movie4U has a movie theater with five halls in it. All these halls are of the same size
+"Company Movie4U has a movie theater with five halls in it. All these halls are of the same size
 and even have the same number of seats, fifty-two. The seats are of two different types though,
 regular seats and priority seats, super comfortable recliners at the center of a hall. Each week
 the theater shows five new movies. Each of the movies of the week is assigned to only one hall
@@ -16,7 +16,7 @@ up with a new list of movies and only he/she is allowed to enter it to the syste
 week are all in different genres which can be Action Movie, Comedy, Drama, Horror and Thriller.
 To sell movie tickets to customers, the movie theater has one hardworking salesperson from
 whom the customers are buying tickets. The company divides its customers into two categories:
-- regular, ordinary customer without any benefits and privileges from the theater - member, a
+ regular, ordinary customer without any benefits and privileges from the theater - member, a
 customer who has membership in Movie4UClub. Unlike regular customers, members of the
 Movie4UClub have several benefits and privileges: - with each purchase of the movie ticket a
 member of the club receives 10 points which can be collected throughout the year and then
@@ -29,11 +29,14 @@ application for the salesperson of the movie theater so he/she can sell tickets,
 customers, register members of the Movie4UClub, keep track of sold/unsold seats and member
 points as well as perform refund operation if a member wishes to return a movie ticket. The
 application should also allow the manager to add movies to the movies of the week list and
-assign them to the halls.
+assign them to the halls."
+
+
+
 
 We are assigned the task to prepare 10 different UML Digrams for the above mentioned scenario.
 
-The UML Diagrams to be drafted are:
+### The UML Diagrams to be drafted are:
 
 1.Use-Case Diagram
 
